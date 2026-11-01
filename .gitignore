@@ -1,0 +1,8 @@
+﻿**/backup/
+**/build/
+SkyboxUsability.Backup/
+*.log
+**/playback-defaults.json
+**/folder-formats.json
+**/scoped-playback.json
+**/completed-videos.json
